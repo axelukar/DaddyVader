@@ -29,8 +29,8 @@ C++, Arduino, Python (when adventurous), Java (a distant memory)
 
 ### 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/axel-ukar)
-- [Twitter](@daddy_vader)
+- [LinkedIn](https://www.linkedin.com/in/axel-ukar)
+- [Twitter](https://twitter.com/daddy_vaderr)
 
 ### 🌈 Let's Code and Create Magic!
 
